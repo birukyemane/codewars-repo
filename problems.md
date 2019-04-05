@@ -1,2 +1,2 @@
 
-#### [4kyu - Catching Car Mileage Numbers](https://www.codewars.com/kata/catching-car-mileage-numbers/train/javascript) my ######[solution](https://github.com/birukyemane/codewars-repo/blob/master/4kyu%20Catching%20Car%20Mileage%20Numbers.js)
+#### [4kyu - Catching Car Mileage Numbers](https://www.codewars.com/kata/catching-car-mileage-numbers/train/javascript) ---- [solution](https://github.com/birukyemane/codewars-repo/blob/master/solutions/4kyu%20Catching%20Car%20Mileage%20Numbers.js)
