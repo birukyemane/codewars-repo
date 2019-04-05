@@ -1,4 +1,4 @@
-
+// catching car milage numbers
 function isInteresting(number, awesomePhrases) {
     // Go to town!
     let includes = (num) => awesomePhrases.includes(num);
